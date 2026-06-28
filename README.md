@@ -180,20 +180,3 @@ This will:
 If this project helps you, consider supporting its development:
 [GitHub Sponsor](https://github.com/sponsors/kaifcodec)
 
-## Sponsors
-
-Huge thanks to our amazing sponsors who support the development of `user-scanner`!
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/soxoj">
-        <img src="https://github.com/soxoj.png?size=100" width="50px;" alt="soxoj"/>
-        <br />
-        <sub><b>@soxoj</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
